@@ -1,4 +1,4 @@
-# Balle Bot
+# Landing Page - Balle Bot
 
 Site desenvolvido através de uma videoaula da Rafaella Ballerini para uma Landing Page em HTML e CSS
 
