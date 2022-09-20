@@ -4,6 +4,7 @@ Site desenvolvido através de uma videoaula da Rafaella Ballerini para uma Landi
 
 ![preview](./.github/preview.png)
 
+#### [Clique aqui para acessar](https://gustavotht21.github.io/landing-page/)
 ## Tecnologias:
 
 - HTML
